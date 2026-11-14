@@ -1,28 +1,70 @@
-# Evolua 2.0 — Calculadora de Consumo (100% local)
 
-Aplicativo React Native (Expo) que calcula o consumo médio de um veículo (km/L).
-**Funciona apenas localmente**: não usa Firebase nem servidor. Contas, sessão e histórico ficam salvos no próprio aparelho/navegador.
+# 🚀 Evolua 2.0
 
-## Como rodar
-Pré-requisitos: Node.js 20 ou superior e npm.
+O **Evolua** é um aplicativo desenvolvido para incentivar o aprendizado e o desenvolvimento de habilidades e hobbies. Através de trilhas personalizadas e desafios, os usuários podem organizar suas atividades e acompanhar sua evolução.
+
+## 👥 Integrantes
+
+- Rafael Piffer
+- Vinicius Alexandre
+- Nome do integrante 3
+- Nome do integrante 4
+
+## 🎯 Funcionalidades
+
+- Cadastro e login de usuários.
+- Criação de trilhas de habilidades e hobbies.
+- Organização dos dias de prática.
+- Registro de atividades realizadas.
+- Acompanhamento do progresso.
+- Sistema de desafios em diferentes categorias.
+- Registro de fotos das atividades.
+- Perfil e configurações.
+- Tema claro e escuro.
+
+## 💻 Tecnologias Utilizadas
+
+- JavaScript
+- React Native
+- Expo
+- Firebase
+- AsyncStorage
+- Git e GitHub
+
+## 📂 Estrutura do Projeto
+
+- `assets/` – imagens e recursos visuais.
+- `src/components/` – componentes reutilizáveis.
+- `src/screens/` – telas do aplicativo.
+- `src/services/` – serviços e armazenamento de dados.
+- `src/utils/` – funções auxiliares.
+- `tests/` – testes automatizados.
+
+## ▶️ Como Executar
+
+1. Instale as dependências:
 
 ```bash
 npm install
-npx expo install --fix      # (opcional) alinha as versões das bibliotecas ao Expo SDK 54
-npx expo start              # abra no Expo Go (QR code) ou pressione "w" para a web
 ```
 
-Também: `npm run android`, `npm run ios`, `npm run web`.
+2. Inicie o projeto:
 
-## Conta de teste
-- E-mail: `demo@evolua.com`
-- Senha: `Evolua123`
-
-Você também pode criar uma conta na tela de cadastro.
-
-## Testes automatizados (lógica)
 ```bash
-npm test      # requer Node 22.12 ou superior
+npx expo start
 ```
 
-A documentação completa (edital) está em **EDITAL.md**.
+3. Para executar no navegador:
+
+```bash
+npm run web
+```
+
+## 🔗 Links
+
+- **GitHub:** [Link do repositório]
+- **Aplicação:** [Link da aplicação, se houver]
+
+## 📝 Considerações Finais
+
+O Evolua foi desenvolvido com o objetivo de tornar o aprendizado mais organizado e acessível, incentivando os usuários a desenvolverem novas habilidades e acompanharem seu próprio progresso.
