@@ -6,9 +6,9 @@ O **Evolua** é um aplicativo desenvolvido para incentivar o aprendizado e o des
 ## 👥 Integrantes
 
 - Rafael Piffer
-- Vinicius Alexandre
-- Nome do integrante 3
-- Nome do integrante 4
+- Vinicius Diggroc
+- Satoru Nakazawa
+- Miguel Scalet
 
 ## 🎯 Funcionalidades
 
@@ -31,15 +31,6 @@ O **Evolua** é um aplicativo desenvolvido para incentivar o aprendizado e o des
 - AsyncStorage
 - Git e GitHub
 
-## 📂 Estrutura do Projeto
-
-- `assets/` – imagens e recursos visuais.
-- `src/components/` – componentes reutilizáveis.
-- `src/screens/` – telas do aplicativo.
-- `src/services/` – serviços e armazenamento de dados.
-- `src/utils/` – funções auxiliares.
-- `tests/` – testes automatizados.
-
 ## ▶️ Como Executar
 
 1. Instale as dependências:
@@ -59,11 +50,6 @@ npx expo start
 ```bash
 npm run web
 ```
-
-## 🔗 Links
-
-- **GitHub:** [Link do repositório]
-- **Aplicação:** [Link da aplicação, se houver]
 
 ## 📝 Considerações Finais
 
